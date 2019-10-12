@@ -1,12 +1,14 @@
 async
 autosuggestions
 color
+completions
 enhancd
 fast-syntax-highlighting
 git
 history-substring-search
 homebrew
 k
+osx
 pure
 rbenv
 revolver
